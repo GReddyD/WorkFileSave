@@ -82,4 +82,7 @@ out
 gen
 
 #DS_Store
-.DS_Store/
+.DS_Store
+
+#Delete result folder Games
+Games/
